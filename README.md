@@ -1,3 +1,3 @@
 # Sky
-first repository
+first repository.
 author - Alka
